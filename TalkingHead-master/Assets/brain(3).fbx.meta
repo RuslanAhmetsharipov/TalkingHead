@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 881d4bbb482e04940aa02f36c92bec45
+timeCreated: 1449493610
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: " \u0441\u043F\u0438\u043D\u043D\u043E\u0439 \u043C\u043E\u0437\u0433"
+    100002: Amugdala
+    100004: Basal ganglia.001
+    100006: //RootNode
+    100008: hippocampus
+    100010: Hypothalamus
+    100012: Olfactory bulbs
+    100014: Sphere
+    100016: Sphere.001
+    100018: THALAMUS.000
+    100020: THALAMUS.002
+    100022: THALAMUS.003
+    100024: VENTRICLES
+    100026: "\u0437\u0430\u0434\u043D\u0438\u0439 \u043C\u043E\u0437\u0433"
+    100028: "\u0437\u0430\u0434\u043D\u0438\u0439 \u043C\u043E\u0437\u0433.002"
+    100030: "\u0437\u0430\u0434\u043D\u0438\u0439 \u043C\u043E\u0437\u0433.003"
+    100032: "\u043F\u0440\u043E\u0434\u043E\u043B\u0433\u043E\u0432\u0430\u0442\u044B\u0439
+      \u043C\u043E\u0437"
+    400000: " \u0441\u043F\u0438\u043D\u043D\u043E\u0439 \u043C\u043E\u0437\u0433"
+    400002: Amugdala
+    400004: Basal ganglia.001
+    400006: //RootNode
+    400008: hippocampus
+    400010: Hypothalamus
+    400012: Olfactory bulbs
+    400014: Sphere
+    400016: Sphere.001
+    400018: THALAMUS.000
+    400020: THALAMUS.002
+    400022: THALAMUS.003
+    400024: VENTRICLES
+    400026: "\u0437\u0430\u0434\u043D\u0438\u0439 \u043C\u043E\u0437\u0433"
+    400028: "\u0437\u0430\u0434\u043D\u0438\u0439 \u043C\u043E\u0437\u0433.002"
+    400030: "\u0437\u0430\u0434\u043D\u0438\u0439 \u043C\u043E\u0437\u0433.003"
+    400032: "\u043F\u0440\u043E\u0434\u043E\u043B\u0433\u043E\u0432\u0430\u0442\u044B\u0439
+      \u043C\u043E\u0437"
+    2300000: " \u0441\u043F\u0438\u043D\u043D\u043E\u0439 \u043C\u043E\u0437\u0433"
+    2300002: Amugdala
+    2300004: Basal ganglia.001
+    2300006: hippocampus
+    2300008: Hypothalamus
+    2300010: Olfactory bulbs
+    2300012: Sphere
+    2300014: Sphere.001
+    2300016: THALAMUS.000
+    2300018: THALAMUS.002
+    2300020: THALAMUS.003
+    2300022: VENTRICLES
+    2300024: "\u0437\u0430\u0434\u043D\u0438\u0439 \u043C\u043E\u0437\u0433"
+    2300026: "\u0437\u0430\u0434\u043D\u0438\u0439 \u043C\u043E\u0437\u0433.002"
+    2300028: "\u0437\u0430\u0434\u043D\u0438\u0439 \u043C\u043E\u0437\u0433.003"
+    2300030: "\u043F\u0440\u043E\u0434\u043E\u043B\u0433\u043E\u0432\u0430\u0442\u044B\u0439
+      \u043C\u043E\u0437"
+    3300000: " \u0441\u043F\u0438\u043D\u043D\u043E\u0439 \u043C\u043E\u0437\u0433"
+    3300002: Amugdala
+    3300004: Basal ganglia.001
+    3300006: hippocampus
+    3300008: Hypothalamus
+    3300010: Olfactory bulbs
+    3300012: Sphere
+    3300014: Sphere.001
+    3300016: THALAMUS.000
+    3300018: THALAMUS.002
+    3300020: THALAMUS.003
+    3300022: VENTRICLES
+    3300024: "\u0437\u0430\u0434\u043D\u0438\u0439 \u043C\u043E\u0437\u0433"
+    3300026: "\u0437\u0430\u0434\u043D\u0438\u0439 \u043C\u043E\u0437\u0433.002"
+    3300028: "\u0437\u0430\u0434\u043D\u0438\u0439 \u043C\u043E\u0437\u0433.003"
+    3300030: "\u043F\u0440\u043E\u0434\u043E\u043B\u0433\u043E\u0432\u0430\u0442\u044B\u0439
+      \u043C\u043E\u0437"
+    4300000: "\u0437\u0430\u0434\u043D\u0438\u0439 \u043C\u043E\u0437\u0433.002"
+    4300002: "\u0437\u0430\u0434\u043D\u0438\u0439 \u043C\u043E\u0437\u0433.003"
+    4300004: Basal ganglia.001
+    4300006: Hypothalamus
+    4300008: VENTRICLES
+    4300010: "\u0437\u0430\u0434\u043D\u0438\u0439 \u043C\u043E\u0437\u0433"
+    4300012: Sphere.001
+    4300014: Sphere
+    4300016: THALAMUS.000
+    4300018: THALAMUS.003
+    4300020: THALAMUS.002
+    4300022: hippocampus
+    4300024: "\u043F\u0440\u043E\u0434\u043E\u043B\u0433\u043E\u0432\u0430\u0442\u044B\u0439
+      \u043C\u043E\u0437"
+    4300026: Olfactory bulbs
+    4300028: " \u0441\u043F\u0438\u043D\u043D\u043E\u0439 \u043C\u043E\u0437\u0433"
+    4300030: Amugdala
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
